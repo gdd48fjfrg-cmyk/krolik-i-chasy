@@ -1,0 +1,11 @@
+.DS_Store
+*.bak
+*.bak-*
+_extract/
+body-clean.html
+# bulky screenshot dumps (web + clean JPG are enough for the site)
+photos/*.png
+photos/bunny-chairs.jpg
+photos/house-lockers.jpg
+photos/playroom-rabbit.jpg
+photos/wooden-house.jpg
